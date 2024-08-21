@@ -23810,6 +23810,7 @@ https://melon-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #EXTM3U
 #################################################    KUALIFIKASI WORLD CUP 2026   #################################################
 
+#EXTINF:-1 group-logo="https://i.imgur.com/miJIOvX.png",
 #EXTINF:-1 tvg-id="Sportstars 3 - [Channel 99].id" tvg-name="Sportstars 3" group-title="KUALIFIKASI WORLD CUP 2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26™ Qualifiers 🇮🇩
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -23911,6 +23912,7 @@ https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
 
 #################################################   OLYMPIC PARIS 2024   #########################################
 
+#EXTINF:-1 group-logo="https://i.imgur.com/miJIOvX.png",
 #EXTINF:-1 group-title="EVENT | OLYMPIC PARIS 2024" ch-number="991" tvg-id="991" tvg-chno="991" ,Channel 1 Paris 2024 Olympics 🇲🇾 
 https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/playlist.m3u8?id=11
 
@@ -23933,6 +23935,7 @@ https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/playlist.m3u8?id=16
 
 ################################################# Malaysia #################################################
 
+#EXTINF:-1 group-logo="https://i.imgur.com/miJIOvX.png",
 #EXTINF:-1 tvg-id="TV1.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1200px-Logo_of_TV1_%28Malaysia%29.svg.png" tvg-url="https://bit.ly/JejeVisionEPG" group-title="Vios-Ch | MALAYSIA",TV 1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 
@@ -24170,6 +24173,7 @@ https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227948/32
 
 ########################################## TURKI ##############################
 
+#EXTINF:-1 group-logo="https://i.imgur.com/miJIOvX.png",
 #EXTINF:-1 tvg-id="360 HD" tvg-logo="https://iili.io/JmoZjrN.png" group-title="Vios-Ch | TURKI",360
 https://ensonhaber-live.ercdn.net/tv360/tv360.m3u8
  
@@ -24209,6 +24213,7 @@ https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 
 ###########################   SINGAPURA   ###############################################
 
+#EXTINF:-1 group-logo="https://i.imgur.com/miJIOvX.png",
 #EXTINF:-1 tvg-id="Ch 5" tvg-logo="https://i.imgur.com/cmWAYhj.png" group-title="Vios-Ch | SINGAPORE",Channel 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=607b7d22565c4bc3b95ff6c33ce65425:28cc5367df666c44be4382e64af64d57
@@ -24244,6 +24249,7 @@ https://tglmp03.akamaized.net/out/v1/435d5ae6f4734fde963642147a852bfb/manifest.m
 
 ############################## Japan Channel ##############################
 
+#EXTINF:-1 group-logo="https://i.imgur.com/miJIOvX.png",
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 group-title="Vios-Ch | JAPAN" tvg-id="tokyomx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX1
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=10&bind=0&uin=159413&playseek=
@@ -24520,6 +24526,7 @@ http://live4.tdm.com.mo/ch3/_definst_//ch3.live/playlist.m3u8
 
 ############################## Korean Channels ##############################
 
+#EXTINF:-1 group-logo="https://i.imgur.com/miJIOvX.png",
 #EXTINF:-1 group-title="Vios-Ch | KOREA" tvg-id="arirangworld.kr" tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png", Arirang Korea
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
@@ -24566,6 +24573,7 @@ http://210.210.155.35/uq2663/h/h125/live.m3u8?app_type=web&userid=4rr0w&tkn=bl4c
 
 =========TAIWAN==============
 
+#EXTINF:-1 group-logo="https://i.imgur.com/miJIOvX.png",
 #EXTINF:0 group-title="Vios-Ch | TAIWAN" tvg-logo="https://lh3.googleusercontent.com/--LjxdM2YyhA/Y0KqSAh8OgI/AAAAAAAAB1o/KBYeXNi2tlo2fOAP7ZPVWz_MEikDEsWHACNcBGAsYHQ/s1600/1665313350332554-1.png",FTV General 
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 https://bit.ly/3N0NzTf
@@ -24644,6 +24652,7 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 
 #################################################    USA   ########################
 
+#EXTINF:-1 group-logo="https://i.imgur.com/miJIOvX.png",
 #EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="FS1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="Vios-Ch | USA LIVE",.FS1
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="FS2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="Vios-Ch | USA LIVE",.FS2
@@ -24781,6 +24790,7 @@ http://thevdm.xyz:25461/Jennifer/Year!/20161
 
 #########################################  THAILAN   #################################
 
+#EXTINF:-1 group-logo="https://i.imgur.com/miJIOvX.png",
 #EXTINF:-1 tvg-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" group-title="Vios-Ch | THAILAN TV",MOVIES WORLD 1
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC1/index.m3u8|user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" group-title="Vios-Ch | THAILAN TV",MOVIES WORLD 3
