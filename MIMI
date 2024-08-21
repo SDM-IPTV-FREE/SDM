@@ -23565,34 +23565,27 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1
 
 
 #############################   SPORT INDONESIA   #######################
-//========================================================================
-//copy right by,@hometv menampilkan playlist >>> UEFA EURO 2024
-//========================================================================
 
 #EXTINF:-1 group-logo="https://i.imgur.com/miJIOvX.png",
 #EXTINF:-1 tvg-id="Sportstars 3 - [Channel 99].id" tvg-name="Sportstars 3" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png",EURO 🇮🇩
-#EXTGRP: 13.Vios-Ch | SPORT INDONESIA
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
 
 #EXTINF:-1 tvg-id="Sportstars 3 - [Channel 99].id" tvg-name="Sportstars 3 HD" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png",EURO 🇮🇩
-#EXTGRP: 13.Vios-Ch | SPORT INDONESIA
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 https://testfunctionlive.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
 
 #EXTINF:-1 tvg-id="Sportstars 4 HD - [Channel 424].id" tvg-name="Sportstars 4 HD" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png",EURO 🇮🇩
-#EXTGRP: 13.Vios-Ch | SPORT INDONESIA
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 https://cempedak-live-cdn.mncnow.id/live/eds/VplusLiveRplus/sa_dash/VplusLiveRplus.mpd
 
 #EXTINF:-1 tvg-id="Sportstars 4 HD - [Channel 424].id" tvg-name="Sportstars 4 HD" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png",EURO 🇮🇩
-#EXTGRP: 13.Vios-Ch | SPORT INDONESIA
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
@@ -24465,7 +24458,8 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15&isp=10&b
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 
-===Vios-Ch | CHINA===
+===| CHINA===
+#EXTINF:-1 group-logo="https://i.imgur.com/miJIOvX.png",
 #EXTINF:-1 group-title="Vios-Ch | CHINA"  tvg-logo="https://images.indihometv.com/logo_zhejiang_small.png",ZHEJIANG TV[INDIHOME]
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
