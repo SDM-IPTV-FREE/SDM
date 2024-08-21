@@ -22210,7 +22210,7 @@ http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
 
 ################################       MOVIES        ################################################
 
-#EXTINF:-1 group-logo="https://i.imgur.com/miJIOvX.png",
+
 #EXTINF:0 tvg-id="Animax.Id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROz0htVZPk71-LA5yNlSrd9DSjU0GIfZkYNA&usqp=CAU" group-title="4.Vios-Ch | MOVIES",Animax
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -22601,7 +22601,7 @@ http://103.120.172.74:4700
 
 ##################################################################### CHANNEL | MUSIC #####################################################################
 
-#EXTINF:-1 group-logo="https://i.imgur.com/miJIOvX.png",
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -22775,7 +22775,7 @@ https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 
 #####################################################################   kids.   #####################################################################
 
-#EXTINF:-1 group-logo="https://i.imgur.com/miJIOvX.png",
+
 #EXTINF:-1 group-title="7.Vios-Ch | KIDS" tvg-id="Dreamworks.id" tvg-logo="https://iptv.urfan.web.id/logo/dreamworks.png",Dreamworks
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
@@ -22878,7 +22878,7 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 ##################################################################### News #####################################################################
 
-#EXTINF:-1 group-logo="https://i.imgur.com/miJIOvX.png",
+
 #EXTINF:-1 group-title="8.Vios-Ch | NEWS" tvg-id="bbcworldnewsasiapacific.uk" tvg-logo="https://iptv.urfan.web.id/logo/bbc.png",BBC World News
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
